@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite name="com.indra.runners.DespegarRunners" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="22LAP5CD1346NJJ" time="0.0">
   <properties/>
-  <system-out><![CDATA[10:12:37.930 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\HU_1\serenity.properties 
-10:12:38.227 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\HU_1\serenity.properties 
-10:12:38.229 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\HU_1\serenity.properties 
-10:12:38.247 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
-10:12:38.247 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.incognito=true
-10:12:38.247 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=src/test/resources/drivers/chromedriver.exe
-10:12:38.247 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.acceptSslCerts=true
-10:12:38.248 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.console.colors=true
-10:12:38.248 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.base.url=https://www.despegar.com.co/
-10:12:38.249 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=Dojo Serenity / Cucumber
-10:12:38.249 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.wait.for.timeout=6000
-10:12:38.249 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.use.unique.browser=true
-10:12:38.249 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=20000
-10:12:38.249 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.browser.maximized=true
-10:12:38.674 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\HU_1\serenity.properties 
-10:12:38.842 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\HU_1\serenity.properties 
-10:12:38.844 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\HU_1\serenity.properties 
-10:12:38.846 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
-10:12:38.846 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.incognito=true
-10:12:38.846 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=src/test/resources/drivers/chromedriver.exe
-10:12:38.846 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.acceptSslCerts=true
-10:12:38.846 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.console.colors=true
-10:12:38.846 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.base.url=https://www.despegar.com.co/
-10:12:38.846 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=Dojo Serenity / Cucumber
-10:12:38.847 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.wait.for.timeout=6000
-10:12:38.847 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.use.unique.browser=true
-10:12:38.847 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=20000
-10:12:38.847 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.browser.maximized=true
-10:12:38.854 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[96m
+  <system-out><![CDATA[12:48:57.493 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\SUBIR\HU_1\serenity.properties 
+12:48:57.941 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\SUBIR\HU_1\serenity.properties 
+12:48:57.944 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\SUBIR\HU_1\serenity.properties 
+12:48:57.965 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+12:48:57.965 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.incognito=true
+12:48:57.965 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=src/test/resources/drivers/chromedriver.exe
+12:48:57.974 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.acceptSslCerts=true
+12:48:57.974 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.console.colors=true
+12:48:57.975 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.base.url=https://www.despegar.com.co/
+12:48:57.975 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=Dojo Serenity / Cucumber
+12:48:57.976 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.wait.for.timeout=6000
+12:48:57.976 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.use.unique.browser=true
+12:48:57.976 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=20000
+12:48:57.977 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.browser.maximized=true
+12:48:58.535 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\SUBIR\HU_1\serenity.properties 
+12:48:58.794 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\SUBIR\HU_1\serenity.properties 
+12:48:58.794 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\SUBIR\HU_1\serenity.properties 
+12:48:58.794 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+12:48:58.794 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.incognito=true
+12:48:58.794 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=src/test/resources/drivers/chromedriver.exe
+12:48:58.794 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.acceptSslCerts=true
+12:48:58.810 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.console.colors=true
+12:48:58.811 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.base.url=https://www.despegar.com.co/
+12:48:58.811 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=Dojo Serenity / Cucumber
+12:48:58.811 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.wait.for.timeout=6000
+12:48:58.811 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.use.unique.browser=true
+12:48:58.811 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=20000
+12:48:58.811 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.browser.maximized=true
+12:48:58.814 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[96m
 
 -------------------------------------------------------------------------------------
      _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
@@ -46,9 +46,9 @@
  Learn Serenity BDD online at http://serenity-dojo.com                               
 -------------------------------------------------------------------------------------
 ?[0m
-10:12:38.859 [Test worker] DEBUG net.thucydides.core.steps.StepEventBus - Test suite started for story net.thucydides.core.model.Story@72f90f83
-10:12:38.860 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Ver distintos vuelos
-10:12:38.922 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+12:48:58.814 [Test worker] DEBUG net.thucydides.core.steps.StepEventBus - Test suite started for story net.thucydides.core.model.Story@72f90f83
+12:48:58.814 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Ver distintos vuelos
+12:48:58.914 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
  _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
 |_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
   | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
@@ -58,39 +58,39 @@
 
 TEST STARTED: el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda
 -------------------------------------------------------------------(ver-distintos-vuelos;el-usuario-deberia--poder-distintos-vuelos-que-coincidan-con-su-criterio-de-busqueda)
-10:13:19.865 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
-10:13:19.952 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
-10:13:19.965 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 1 test outcomes using: net.thucydides.core.reports.json.JSONTestOutcomeReporter@2eca679c
-10:13:19.966 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver distintos vuelos:el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda
-10:13:19.967 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@2eca679c: Generating report for test outcome: Ver distintos vuelos:el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda
-10:13:19.971 [pool-1-thread-1] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda to file C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\HU_1\target\site\serenity\cb028f9686bc5d96c61384f83f3cb790235052334f3f939e312bb0a45b38d4b0.json (using temp file C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\HU_1\target\site\serenity\cb028f9686bc5d96c61384f83f3cb790235052334f3f939e312bb0a45b38d4b0.jsone8706558-df4e-47cc-8dc7-1e9b9a4c919d)
-10:13:20.057 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver distintos vuelos:el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda done
-10:13:20.058 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
-10:13:20.058 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 92 ms
-10:13:20.058 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 1 test outcomes using: net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@ae314dc
-10:13:20.059 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver distintos vuelos:el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda
-10:13:20.059 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@ae314dc: Generating report for test outcome: Ver distintos vuelos:el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda
-10:13:20.059 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda in cb028f9686bc5d96c61384f83f3cb790235052334f3f939e312bb0a45b38d4b0
-10:13:20.072 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-10:13:20.078 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-10:13:20.136 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-10:13:20.137 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-10:13:20.368 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in cb028f9686bc5d96c61384f83f3cb790235052334f3f939e312bb0a45b38d4b0_screenshots.html
-10:13:20.799 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report cb028f9686bc5d96c61384f83f3cb790235052334f3f939e312bb0a45b38d4b0_screenshots.html in 431 ms
-10:13:20.801 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Ver distintos vuelos:el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda in cb028f9686bc5d96c61384f83f3cb790235052334f3f939e312bb0a45b38d4b0.html in directory C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\HU_1\target\site\serenity  
-10:13:20.803 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in cb028f9686bc5d96c61384f83f3cb790235052334f3f939e312bb0a45b38d4b0.html
-10:13:20.851 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-10:13:20.855 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
-10:13:20.949 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report cb028f9686bc5d96c61384f83f3cb790235052334f3f939e312bb0a45b38d4b0.html in 146 ms
-10:13:20.950 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver distintos vuelos:el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda done
-10:13:20.950 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
-10:13:20.950 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 892 ms
-10:13:21.196 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Closing darkroom
-10:13:21.196 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line shutting down
+12:49:57.569 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+12:49:57.705 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+12:49:57.736 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 1 test outcomes using: net.thucydides.core.reports.json.JSONTestOutcomeReporter@acef67e
+12:49:57.736 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver distintos vuelos:el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda
+12:49:57.736 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@acef67e: Generating report for test outcome: Ver distintos vuelos:el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda
+12:49:57.736 [pool-1-thread-1] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda to file C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\SUBIR\HU_1\target\site\serenity\cb028f9686bc5d96c61384f83f3cb790235052334f3f939e312bb0a45b38d4b0.json (using temp file C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\SUBIR\HU_1\target\site\serenity\cb028f9686bc5d96c61384f83f3cb790235052334f3f939e312bb0a45b38d4b0.json8e3230d6-6188-4de2-922d-3254790d735d)
+12:49:57.901 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver distintos vuelos:el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda done
+12:49:57.901 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+12:49:57.901 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 165 ms
+12:49:57.901 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 1 test outcomes using: net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@1f8b8aa7
+12:49:57.901 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver distintos vuelos:el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda
+12:49:57.901 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@1f8b8aa7: Generating report for test outcome: Ver distintos vuelos:el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda
+12:49:57.901 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda in cb028f9686bc5d96c61384f83f3cb790235052334f3f939e312bb0a45b38d4b0
+12:49:57.936 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+12:49:57.936 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+12:49:58.008 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+12:49:58.008 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+12:49:58.349 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in cb028f9686bc5d96c61384f83f3cb790235052334f3f939e312bb0a45b38d4b0_screenshots.html
+12:49:58.990 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report cb028f9686bc5d96c61384f83f3cb790235052334f3f939e312bb0a45b38d4b0_screenshots.html in 641 ms
+12:49:58.990 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Ver distintos vuelos:el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda in cb028f9686bc5d96c61384f83f3cb790235052334f3f939e312bb0a45b38d4b0.html in directory C:\Users\SoporteTI\Desktop\DAVIVIENDA-PRUEBA\SUBIR\HU_1\target\site\serenity  
+12:49:58.990 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in cb028f9686bc5d96c61384f83f3cb790235052334f3f939e312bb0a45b38d4b0.html
+12:49:59.054 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+12:49:59.071 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+12:49:59.214 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report cb028f9686bc5d96c61384f83f3cb790235052334f3f939e312bb0a45b38d4b0.html in 224 ms
+12:49:59.214 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Ver distintos vuelos:el usuario deberia  poder distintos vuelos que coincidan con su criterio de busqueda done
+12:49:59.214 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+12:49:59.214 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 1313 ms
+12:49:59.572 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Closing darkroom
+12:49:59.572 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line shutting down
 
 1 Scenarios (?[32m1 passed?[0m)
 3 Steps (?[32m3 passed?[0m)
-0m41,358s
+0m59,272s
 
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>

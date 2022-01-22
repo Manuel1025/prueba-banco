@@ -4,6 +4,7 @@ import com.indra.models.DespegarModels;
 import com.indra.pages.DespegarPage;
 
 
+import net.serenitybdd.core.pages.WebElementFacade;
 import org.openqa.selenium.WebDriver;
 
 
@@ -36,10 +37,41 @@ public class DespegarActions extends DespegarPage {
 
     }
 
-    public  void seleccionarFecha(){
+    public  void seleccionarFecha(DespegarModels despegarModels){
+
         getBotonCalendario().click();
-        getDiaSalida().waitUntilPresent();
-        getDiaSalida().click();
+        String mesFeature = despegarModels.getMes();
+        for(int i=0; i<12; i++){
+            for(int j=0; j< getListaMeses().size(); j++){
+                if(!mesFeature.equals(getListaMeses().get(j).getText())){
+                    getSiguiente().click();
+                }
+                else{
+                    break;
+                }
+            }
+        }
+
+
+
+    }
+
+    public  void dia(DespegarModels despegarModels){
+        String diaPartida = despegarModels.getDia();
+        for (int l=0; l<getListadias().size(); l++){
+            diaPartida = despegarModels.getDia();
+            String diaCalendario = getListadias().get(l).getText();
+
+            if(diaPartida.equals(diaCalendario)){
+                getListadias().get(l).click();
+                break;
+            }
+
+        }
+
+
+
+
 
 
     }
@@ -55,7 +87,8 @@ public class DespegarActions extends DespegarPage {
     public void  llenarFormuilario(DespegarModels despegarModels){
         seleccionrSoloIda();
         llenarOrigenDestino(despegarModels);
-        seleccionarFecha();
+        seleccionarFecha(despegarModels);
+        dia(despegarModels);
 
     }
 

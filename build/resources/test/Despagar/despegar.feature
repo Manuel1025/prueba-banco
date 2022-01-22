@@ -9,6 +9,6 @@ Feature: Ver distintos vuelos
     Given que el usuario ingresa a la pagina
     When diligencia el formulrio de vuelo
     |origen       |destino   |mes                       |dia  |
-    |MMonteria    |MMed      |octubre 2022              | 14  |
+    |MMonteria    |MMed      |Julio                     | 12  |
 
     Then deberia poder escoger un vuelo
